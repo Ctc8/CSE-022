@@ -1,0 +1,9 @@
+1. Printing Headings
+Time complexity is linear O(n) because the function iterates through all of the elements once.
+There are no worst or best case scenarios. 
+
+
+4. Optimal Container Loading
+Time complexity is linear O(n) because the function iterates through all of the elements once. 
+Best scenario is if packages happen to be the first two elements of the list and also add up to the limit. 
+Worst scenario is the if the packages happend to be the last two elements of the list and also add up to the limit. 
